@@ -1,0 +1,287 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+img.mobi-shape.mobile-shape-02 {
+    right: -8%;
+}
+img.shape.shape-2 {
+    bottom: 14%;
+    left: 45%;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.main-menu ul li {
+    display: inline-block;
+    margin: 0 8px;
+}
+.feature-content p {
+    margin-top: 0;
+    padding: 0;
+}
+.work-area .work-content h3 {
+    margin-top: 15%;
+}
+.work-area .work-content h3.mr {
+    margin-top: 30%;
+}
+section.work-area {
+    min-height: 1600px;
+    margin-top: -19%;
+}
+.latest-blog-content {
+    padding: 0px 25px;
+}
+.innar-blog {
+    padding: 30px 25px;
+}
+.subscribe-title h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.pb-130 {
+	padding-bottom: 0;
+}
+.latest-blog-area.pt-130.pb-130 {
+	padding-bottom: 50px;
+}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+img.shape.shape-1 {
+    left: 0%;
+}
+.slider-height {
+    padding-top: 290px;
+}
+.feature-content p {
+    padding: 0px 0px;
+}
+.work-content {
+    margin-bottom: 30px;
+}
+.work-area .work-content h3.mr {
+    margin-top: 160px;
+}
+.work-area .work-content h3 {
+    font-size: 36px;
+    margin-top: 0%;
+}
+.brand-heading.text-center h3 {
+    margin-top: 40px;
+}
+.innar-blog {
+    padding: 30px 23px;
+    margin-bottom: 20px;
+}
+.subscribe-title h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.pb-130 {
+	padding-bottom: 0;
+}
+.latest-blog-area.pt-130.pb-130 {
+	padding-bottom: 50px;
+}
+.pb-130 {
+	padding-bottom: 50px;
+}
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+img.shape.shape-1 {
+    display: none;
+}
+.slider-height {
+	padding-top: 125px;
+}
+.mean-container a.meanmenu-reveal {
+	top: -25px !important;
+}
+.slider-text h2 {
+	font-size: 30px;
+}
+.slider-text p {
+	font-size: 18px;
+}
+.slider-btn a {
+	margin-bottom: 10px;
+}
+img.shape.shape-2 {
+	display: none;
+}
+.slider-area {
+	min-height: 610px;
+}
+.single-fact h2 {
+	font-size: 40px;
+}
+.video-wrapper .icon h3 {
+	font-size: 18px;
+}
+.video-wrapper .icon a {
+	height: 50px !important;
+	width: 50px !important;
+	line-height: 50px !important;
+	font-size: 15px !important;
+}
+.video-img > .icon {
+	bottom: 38%;
+	left: 43%;
+}
+.mfp-iframe-holder .mfp-close {
+	right: 60px;
+}
+.pb-130 {
+	padding-bottom: 25px;
+}
+section.work-area {
+	background-position: top;
+	margin-top: -10%;
+    min-height: 1890px;
+}
+.work-area .work-content h3 {
+	font-size: 28px;
+	margin-top: 10%;
+}
+.work-area .work-content h3.mr {
+	margin-top: 45%;
+}
+.work-imge.md-t {
+	margin-top: 55px;
+}
+.section-title p {
+	font-size: 15px;
+	line-height: 25px;
+}
+.pricing-card {
+	margin-bottom: 15px;
+}
+section.testimonial-area {
+	padding-top: 250px;
+}
+.test-content p {
+	font-size: 16px;
+}
+.brand-heading.text-center h3 {
+	font-size: 20px;
+}
+.latest-blog-content {
+	padding: 0 35px;
+}
+.innar-blog {
+	padding: 20px 27px;
+	margin-bottom: 30px;
+}
+.test-img::before {
+	position: unset;
+}
+.test-imge-active img {
+	margin-right: 10%;
+}
+.latest-blog-area.pt-130.pb-130 {
+	padding-top: 80px !important;
+}
+.subscribe-title h3 {
+	font-size: 25px;
+}
+.subscribe-form input {
+	height: 55px;
+}
+.subscribe-form button.btn {
+	position: static;
+	display: block;
+	text-align: center;
+	margin: auto !important;
+}
+.scrinsort-area.pt-130.pb-130 {
+	padding-top: 80px;
+}
+.pricing-card {
+    margin-bottom: 20px;
+}
+.pb-20 {
+	padding-bottom: 0;
+}
+.single-fact::after {
+	display: none;
+}
+.subscribe-form button.btn {
+	margin-left: 0;
+}
+.subscribe-form input {
+	margin-bottom: 15px;
+}
+.slider-text.slider-height {
+	text-align: center;
+}
+.slider-text h2 {
+	margin-right: 0;
+}
+.btn.bg-none {
+	padding: 24px 60px;
+}
+.work-content {
+	text-align: center;
+}
+section.testimonial-area {
+	padding-top: 250px;
+	display: none;
+}
+section.pricing-area {
+	margin-bottom: -90px;
+}
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.slider-area {
+	min-height: 610px;
+}
+.latest-blog-img img {
+    width: 100%;
+}
+.subscribe-form button.btn {
+    position: static;
+    margin-left: 0px;
+}
+.mean-container a.meanmenu-reveal {
+    top: -13px !important;
+}
+.slider-text.slider-height {
+	text-align: center;
+}
+.slider-text h2 {
+	margin-right: 0;
+}
+.btn.bg-none {
+	padding: 24px 60px;
+}
+.single-fact::after {
+	display: none;
+}
+section.work-area {
+	margin-top: -20%;
+}
+.subscribe-form button.btn {
+	position: static;
+	margin-left: 0px;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.subscribe-form input {
+	margin-bottom: 20px;
+}
+.pb-20 {
+	padding-bottom: 0;
+}
+}
